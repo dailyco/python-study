@@ -95,7 +95,7 @@ print(str_o3.replace("is", "was", 3)) # thwas was string example....wow!!! thwas
 print(str_o4.split(' '))  # ['Kim', 'Lee', 'Park', 'Joo'] (문자열 분리)
 print(sorted(str_o1))  # ['a', 'c', 'd', 'i', 'l', 'o', 'y'] (문자 정렬)
 print(reversed(str_o2)) # <reversed object at 0x7f57941cd4c0>
-print(list(reversed(str_o2))) # ['e', 'g', 'n', 'a', 'r', 'O'] (문자 거꾸로 정렬)
+print(list(reversed(str_o2))) # ['e', 'g', 'n', 'a', 'r', 'O'] (문자 거꾸로)
 
 print()
 
