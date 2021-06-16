@@ -35,8 +35,8 @@
 <br/>
 
 ## 👩🏻‍🎨 실전! 퀴즈 & 프로젝트
-- 자료형 : 데이터 타입 퀴즈 & 풀이 &nbsp; [![](https://img.shields.io/badge/-코드%20보기-yellow)](https://www.notion.so/e5f4a20ce5e34331ac55531b786bdf52)
-- 흐름제어 : 조건문, 반복문 퀴즈 & 풀이 &nbsp; [![](https://img.shields.io/badge/-코드%20보기-yellow)](https://www.notion.so/363c88faca8b4f4aa707c6a7d7f47760)
+- 자료형 : 데이터 타입 퀴즈 & 풀이 &nbsp; [![](https://img.shields.io/badge/-코드%20보기-yellow)](src/section04_5.py) [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/e5f4a20ce5e34331ac55531b786bdf52)
+- 흐름제어 : 조건문, 반복문 퀴즈 & 풀이 &nbsp; [![](https://img.shields.io/badge/-코드%20보기-yellow)](src/section05_3.py) [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/363c88faca8b4f4aa707c6a7d7f47760)
 
 <!--
 -  &nbsp; [![](https://img.shields.io/badge/-코드%20보기-yellow)]()
