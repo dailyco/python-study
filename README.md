@@ -14,13 +14,12 @@
 3. 가상 환경 : 가상환경 설정 & 패키지 설치 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/72cde89558a84e06b138df0e754cc90a)
 4. 자료형 : 데이터타입(숫자형, 문자열, 리스트, 튜플, 딕셔너리) &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/153c4ee404a94ce9a48ee6169a80ce1b)
 5. 흐름 제어 : 조건문, 반복문 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/4e140ed56eb14c1c876eeadf91adf680)
-7. 함수 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/7ac96f7b464f4e9e9c4b324f1f9a81ab)
-8. 클래스 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/85bccbac59e74e239d33d58b37313148)
-
+7. 함수 : 함수, 람다 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/7ac96f7b464f4e9e9c4b324f1f9a81ab)
+8. 클래스 : 클래스의 상속, 다중상속 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/85bccbac59e74e239d33d58b37313148)
+9. 모듈, 패키지 : 모듈 & 패키지 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/41c16adccbe943b3b380cf86d692a1d2)
+10. 파일 : 파일 읽기, 쓰기 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/a2fee76beabd4ebd8e36fd3892fefee3)
 
 <!--
-9. 모듈, 패키지 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
-10. 파일 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
 11. 예외 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
 12. 외부파일 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
 13. DB &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
