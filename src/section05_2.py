@@ -266,3 +266,24 @@ print(reversed(name))  # <reversed object at 0x7fdb0c57f550>
 print(list(reversed(name)))  # ['n', 'a', 'm', 'e', 'c', 'i', 'N']
 print(tuple(reversed(name)))  # ('n', 'a', 'm', 'e', 'c', 'i', 'N')
 print(set(reversed(name)))  # {'c', 'n', 'm', 'e', 'i', 'N', 'a'} (순서 X)
+print()
+
+# 리스트 컴프리헨션
+# 일반적인 방법
+numbers = []
+for n in range(1, 101):
+    numbers.append(n)
+print(numbers)
+
+# 리스트 컴프리헨션
+numbers2 = [x for x in range(1, 101)]
+print(numbers2)
+
+# 예제 1) "정"이 아닌 값들로만 리스트 생성
+q3 = ["갑", "정", "병", "을"]
+q5 = [x for x in q3 if x != '정']
+print(q5)  # ['갑', '병', '을']
+
+# 예제 2) 1부터 100까지 자연수중 홀수값들을 갖는 리스트 생성
+q6 = [e for e in range(1, 101, 2)]
+print(q6)
