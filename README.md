@@ -17,11 +17,11 @@
 7. 함수 : 함수, 람다 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/7ac96f7b464f4e9e9c4b324f1f9a81ab)
 8. 클래스 : 클래스의 상속, 다중상속 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/85bccbac59e74e239d33d58b37313148)
 9. 모듈, 패키지 : 모듈 & 패키지 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/41c16adccbe943b3b380cf86d692a1d2)
-10. 파일 : 파일 읽기, 쓰기 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/a2fee76beabd4ebd8e36fd3892fefee3)
+10. 파일 : 파일 읽기 & 쓰기 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/a2fee76beabd4ebd8e36fd3892fefee3)
+11. 예외 : 에러, 예외 처리 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/394a0c375f4d451c9e6ad23e26d574ce)
+12. 외부파일 : Excel, CSV 읽기 & 쓰기 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/82ca4d4a25154d6eb99d9e06be138898)
 
 <!--
-11. 예외 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
-12. 외부파일 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
 13. DB &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
 14. 프로젝트 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
 
