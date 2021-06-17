@@ -20,9 +20,9 @@
 10. 파일 : 파일 읽기 & 쓰기 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/a2fee76beabd4ebd8e36fd3892fefee3)
 11. 예외 : 에러, 예외 처리 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/394a0c375f4d451c9e6ad23e26d574ce)
 12. 외부파일 : Excel, CSV 읽기 & 쓰기 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/82ca4d4a25154d6eb99d9e06be138898)
+13. DB : SQLite 연동, 테이블 생성, 데이터 삽입 & 조회 & 조건 조회 & 수정 & 삭제 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)](https://www.notion.so/DB-258cda00f3d5469f8560d988cc76d867)
 
 <!--
-13. DB &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
 14. 프로젝트 &nbsp; [![lecture_note](https://img.shields.io/badge/-강의%20정리%20노트-green)]()
 
 <br/>
